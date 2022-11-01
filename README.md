@@ -1,3 +1,4 @@
+![MasterHead](https://image.noelshack.com/fichiers/2022/44/2/1667323973-lol.png)
 <h1 align="center">Hi 👋, I'm Jest</h1>
 <h3 align="center">A passionate Fullstack developer from France</h3>
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **caraibesconnection@gmail.com**
 
-- 📄 Know about my experiences [I have been developing for almost 5 years](I have been developing for almost 5 years)
+- 📄 Know about my experiences : I have been developing for almost 5 years
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
