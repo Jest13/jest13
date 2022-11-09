@@ -12,7 +12,6 @@
 
 - 📄 Know about my experiences : I have been developing for almost 5 years
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
