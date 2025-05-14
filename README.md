@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Solidity development oriented cybersecurity**
 
-- 👯 I’m looking to collaborate on [Dogecoin project](https://github.com/Jest13/dogecoin)
+- 👯 I’m looking to collaborate on Cryptonote project 
 
 - 📫 How to reach me **caraibesconnection@gmail.com**
 
