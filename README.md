@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://risibank.fr/cache/medias/0/22/2246/224643/full.png"</div>
+<div align="center"> <img src="https://m.media-amazon.com/images/I/514xijeBDqL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg"</div>
 <h1 align="center">Hi 👋, I'm Xamil2025</h1>
 <h3 align="center">A passionate Fullstack developer from France</h3>
 
@@ -11,6 +11,7 @@
 - 📫 How to reach me **caraibesconnection@gmail.com**
 
 - 📄 Know about my experiences : I have been developing for almost 5 years
+<div align="center"> <img src="https://risibank.fr/cache/medias/0/22/2246/224643/full.png"</div>
 
 <p align="left">
 </p>
